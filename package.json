@@ -1,0 +1,22 @@
+{
+  "name": "@cd-bustamante/github-packages-exploration",
+  "version": "0.1.0",
+  "description": "learning-github-packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cd-bustamante/github-packages-exploration.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Cesar Bustamante",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cd-bustamante/github-packages-exploration/issues"
+  },
+  "homepage": "https://github.com/cd-bustamante/github-packages-exploration#readme"
+}
